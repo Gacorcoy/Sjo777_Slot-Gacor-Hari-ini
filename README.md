@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Minimal Deposit</td>
-<td><g-emoji class="g-emoji" alias="heavy_dollar_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b2.png">💲</g-emoji> 10.000</td>
+<td><g-emoji class="g-emoji" alias="heavy_dollar_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b2.png">💲</g-emoji> 1.000</td>
 </tr>
 <tr>
 <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Mata Uang</td>
@@ -61,7 +61,7 @@
 <p dir="auto">Sebagai pemain, tentu Anda harap banyak kenali lebih jauh hal apa persyaratan untuk daftar game slot deposit tanpa potongan Dana dan terpercaya di Indonesia. Seperti yang kami kenal game satu ini sedia kan fitur daftar slot paling simpel dan tidak ribet untuk sebagian pemula. Berikut keputusan register web online slot deposit tanpa potongan 2022 misalkan:</p>
 <p dir="auto">Anda mesti memiliki rekening pribadi.</p>
 <ul dir="auto">
-<li>Minimal deposit minimal 10 ribu.</li>
+<li>Minimal deposit minimal seribu.</li>
 <li>Cuma ada untuk operator Telkomsel dan XL.</li>
 <li>Pemain dapat di menerapkan rate yang beralih setiap hari.</li>
 <li>Untuk deposit tanpa potongan, bisa hubungi CS kami.</li>
